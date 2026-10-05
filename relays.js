@@ -8,3 +8,9 @@ https://jsdelivr.b-cdn.net/gh/OpiumBest/svg/icon.svg
 https://cdn.statically.io/gh/OpiumBest/svg@main/icon.svg
 https://raw.esm.sh/gh/OpiumBest/svg/icon.svg
 https://cleverlearning.s3.amazonaws.com/icon.svg
+https://opm.d2otav0547hwz0.amplifyapp.com/
+https://opm.govt.hu/
+https://opm9d2e.fowlergo.org/
+https://opm8f7b.nacnepal.org.np/
+https://opm9658.nabinshahi.com.np/
+https://opm46c2.art-motel.com/
